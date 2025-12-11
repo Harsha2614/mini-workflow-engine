@@ -1,7 +1,6 @@
 import asyncio
 import math
 from typing import Dict, Any
-#
 def extract_functions(state: Dict[str, Any], params: Dict[str, Any]):
     """
     Pretend to extract functions from code text in state['code'].

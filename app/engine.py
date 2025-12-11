@@ -171,4 +171,4 @@ class GraphEngine:
         for case in edge_def.get("cases", []):
             if self._eval_cond(case.get("cond"), state):
                 return case.get("node")
-        return edge_def.get("default")#
+        return edge_def.get("default")
