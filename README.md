@@ -230,7 +230,7 @@ Async background execution using asyncio
 
 Optional WebSocket log streaming
 
-#📈 What I Would Improve With More Time
+# 📈 What I Would Improve With More Time
 
 Replace eval() with a sandboxed expression evaluator
 
@@ -246,7 +246,7 @@ Improve logging and tracing middleware
 
 Add unit tests and GitHub Actions CI
 
-#✨ Why This Architecture Is Clean
+# ✨ Why This Architecture Is Clean
 
 Engine, tools, API, and workflow definitions are separated clearly
 
@@ -259,9 +259,9 @@ Supports branching, looping, state transitions cleanly
 Async executor prevents blocking the server
 
 
-Developed by 
+# Developed by 
 
-# Narayana Harsha Vardhan
-# 22BCE20480
-# VIT AP CSE UnderGraduate
+## Narayana Harsha Vardhan
+## 22BCE20480
+## VIT AP CSE UnderGraduate
 
